@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "plugins": {
+        "new_editor": {
+            "name": "new Editor",
+            "repo": "https://github.com/rskumawat0143/my-ckeditor/tree/master",
+            "zip": "https://github.com/rskumawat0143/my-ckeditor/archive/master.zip",
+            "summary": "Adds an WYSIWYG my Ck editor to all content editable fields.",
+            "version": "1.2.3",
+            "image": "https://raw.githubusercontent.com/rskumawat0143/my-ckeditor/main/preview.jpg"
+        }
+    }
+}
